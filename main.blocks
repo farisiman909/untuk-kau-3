@@ -1,10 +1,10 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="u#Z@/4q5r$2`{@g$3D`)" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="jGaV5XPP8UubKM;X+gfS"><value name="TIMES"><shadow type="math_whole_number" id="0cBYsLG}:|sz/oaf_*!b"><field name="NUM">100000</field></shadow></value><statement name="DO"><block type="device_show_leds" id="PAibpE`2N4yO1J$z)T[!"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="iuFmj|Wh;Ow*R-J@C45P" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="[)MfQoNK0q,EH?UY23$M"><value name="TIMES"><shadow type="math_whole_number" id="23u,wrt,du8~pF(cF1z6"><field name="NUM">100000</field></shadow></value><statement name="DO"><block type="device_show_leds" id="u[HYBNYx#hTtNqDA?g#m"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_show_leds" id="OYVNXE^PL$dHi#;HkQF~"><field name="LEDS">`
+        `</field><next><block type="device_show_leds" id="C2fQXzV|fGj?bKlXWPt;"><field name="LEDS">`
         . . # . . 
         . . # . . 
         . # # # . 
